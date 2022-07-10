@@ -1,0 +1,15 @@
+.horizontal {
+  display:inline-block;
+  width: 33%;
+  float: left;
+  outline: 2px solid orange;
+}
+div.ex1 {
+  width: 100%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
